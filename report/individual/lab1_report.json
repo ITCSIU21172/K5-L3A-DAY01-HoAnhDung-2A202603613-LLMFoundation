@@ -1,0 +1,12 @@
+{
+ "seed": 9299,
+ "predictions": {},
+ "checks": {
+  "1.1 vectorize": true,
+  "1.2 sigmoid / predict_proba": true,
+  "1.3 train_logreg": false,
+  "1.4 metrics": false
+ },
+ "experiments": [],
+ "results": {}
+}
